@@ -1,4 +1,4 @@
-### Hi there, I'm Ron [website] 👋
+### Hi there, I'm Ron. Here is my [website] 👋
 
 ### Connect with me:
 
