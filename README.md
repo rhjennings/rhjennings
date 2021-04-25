@@ -18,4 +18,4 @@
 </details>
 
 [website]: http://corporatewars.com
-[linkedin]: https://www.linkedin.com/in/ron-jennings-7b03b02/
+[linkedin]: https://www.linkedin.com/in/ron-jennings/
